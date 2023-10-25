@@ -2,7 +2,7 @@
   <!-- <section id="nav-bar">
     <nav class="navbar navbar-expand-lg navbar-light">
       <button
-        class="navbar-toggler"
+        class="navbar-toggler";
         type="button"
         data-toggle="collapse"
         data-target="#navbarNav"
