@@ -78,7 +78,7 @@
       <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav ms-auto">
           <li class="nav-item">
-            <router-link to="/products" class="nav-link" style="color: black"
+            <router-link to="/" class="nav-link" style="color: black"
               >Home</router-link
             >
           </li>
